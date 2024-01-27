@@ -1,3 +1,7 @@
-// hello
-goodbye
-hello_again
+#include <stdio.h> 
+
+int main(void)
+{
+   printf("dookie butt!\n");
+   return 0;
+}
