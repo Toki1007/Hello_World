@@ -2,6 +2,6 @@
 
 int main(void)
 {
-   printf("dookie butt!\n");
+   printf("Goodbye World!\n");
    return 0;
 }
