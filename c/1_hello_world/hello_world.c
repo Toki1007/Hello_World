@@ -2,6 +2,12 @@
 
 int main(void)
 {
-   printf("Goodbye World!\n");
+   int x = 0;
+   if (x == 0) {
+      printf("Hello World!");
+   } else {
+      printf("Goodbye World!");
+   }
+   
    return 0;
 }
